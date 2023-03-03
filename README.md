@@ -27,7 +27,7 @@ O intuito do projeto não é em si a estilização e sim o desenvolvimento da li
 
 :heavy_check_mark: `Funcionalidade 1:` Tentar fazer o ponto no computador.
 
-:heavy_check_mark: `Funcionalidade 2:` A cada ponto marcado a bolinha fica mais rápida e o a raquete do computador também.
+:heavy_check_mark: `Funcionalidade 2:` A cada ponto marcado a bolinha fica mais rápida e a raquete do computador também.
 
 :heavy_check_mark: `Funcionalidade 3:` O placar a cada ponto marcado se altera sozinho, não tem uma pontuação minima, então quando o ponto é marcado, mais dificil fica.
 
