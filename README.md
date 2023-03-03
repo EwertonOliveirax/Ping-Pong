@@ -1,1 +1,1 @@
-![logo_Ping-Pong](Ping-Ponghttps://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/ping-pong.png)
+![logo_Ping-Pong](https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/ping-pong.png)
