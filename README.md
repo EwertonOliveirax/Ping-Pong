@@ -1,4 +1,4 @@
-<img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/ping-pong.png" alt="Logo Ping-Pong" width="300"/>
+<img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/ping-pong.png" alt="Logo Ping-Pong" width="200"/>
 
 ### Tópicos 
 
@@ -10,7 +10,7 @@
 
 - [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
-- [Desenvolvedores](#desenvolvedores)
+- [Desenvolvedor](#desenvolvedor)
 
 ## Descrição do projeto 
 
@@ -43,4 +43,4 @@ Após baixar o projeto, você pode abrir com o Visual Studio Code e rodar o arqu
 
 ## Desenvolvedor
 
-[<img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/desenvolvedor.jpg" width=215><br><sub>Ewerton Oliveira</sub>](https://github.com/EwertonOliveirax) 
+[<img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/desenvolvedor.jpg" width=215><br><b>Ewerton Oliveira</b>](https://github.com/EwertonOliveirax) 
