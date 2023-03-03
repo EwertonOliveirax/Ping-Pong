@@ -1,4 +1,4 @@
-![logo_Ping-Pong](<img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/ping-pong.png" width="300" height="100"/>)
+<img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/ping-pong.png" alt="Logo Ping-Pong" width="300" height="100"/>
 
 ### Tópicos 
 
@@ -33,9 +33,9 @@ O intuito do projeto não é em si a estilização e sim o desenvolvimento da li
 
 ## Ferramentas utilizadas
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> <img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/logo_html5.png" alt="HTML5" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> <img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/logo_html5.png" alt="HTML5" width="50" height="50"/> </a> 
 
-<a href="https://www.javascript.com/about" target="_blank"> <img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/logo_javaScript.png" alt="JavaScript" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/logo_visual.png" alt="VisualCode" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/about" target="_blank"> <img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/logo_javaScript.png" alt="JavaScript" width="50" height="50"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/logo_visual.png" alt="VisualCode" width="50" height="50"/> </a>
 
 ###
 
@@ -45,4 +45,4 @@ Após baixar o projeto, você pode abrir com o Visual Studio Code e rodar o arqu
 
 ## Desenvolvedores
 
-| [<img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/desenvolvedor.jpg" width=115><br><sub>Ewerton Oliveira</sub](https://github.com/EwertonOliveirax) |
+[<img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/desenvolvedor.jpg" width=215><br><sub>Ewerton Oliveira</sub](https://github.com/EwertonOliveirax) 
