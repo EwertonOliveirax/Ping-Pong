@@ -1,4 +1,4 @@
-<img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/ping-pong.png" alt="Logo Ping-Pong" width="300" height="100"/>
+<img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/ping-pong.png" alt="Logo Ping-Pong" width="300"/>
 
 ### Tópicos 
 
@@ -33,9 +33,7 @@ O intuito do projeto não é em si a estilização e sim o desenvolvimento da li
 
 ## Ferramentas utilizadas
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> <img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/logo_html5.png" alt="HTML5" width="50" height="50"/> </a> 
-
-<a href="https://www.javascript.com/about" target="_blank"> <img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/logo_javaScript.png" alt="JavaScript" width="50" height="50"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/logo_visual.png" alt="VisualCode" width="50" height="50"/> </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> <img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/logo_html5.png" alt="HTML5" width="80" height="80"/> </a> <a href="https://www.javascript.com/about" target="_blank"> <img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/logo_javaScript.png" alt="JavaScript" width="80" height="80"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/logo_visual.png" alt="VisualCode" width="80" height="80"/> </a>
 
 ###
 
@@ -43,6 +41,6 @@ O intuito do projeto não é em si a estilização e sim o desenvolvimento da li
 
 Após baixar o projeto, você pode abrir com o Visual Studio Code e rodar o arquivo ping-pong.html no seu navegador e testar o jogo. 
 
-## Desenvolvedores
+## Desenvolvedor
 
-[<img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/desenvolvedor.jpg" width=215><br><sub>Ewerton Oliveira</sub](https://github.com/EwertonOliveirax) 
+[<img src="https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/desenvolvedor.jpg" width=215><br><sub>Ewerton Oliveira</sub>](https://github.com/EwertonOliveirax) 
