@@ -17,7 +17,7 @@
 <p align="justify">
  Projeto desenvolvido dentro do curso formação JavaScript, onde foi passado o desafio para criar um jogo mais ou menos como o ping-pong.
 
-O intuito do projeto não é em si a estilização e sim o desenvolvimento da linguagem JavaScript, utilizando orientação a objetos e funções.
+O intuito do projeto não é em si a estilização e sim o desenvolvimento da linguagem JavaScript, utilizando orientação a objeto e funções.
 </p>
 
 ![Descrição do projeto Ping-Pong](https://github.com/EwertonOliveirax/Ping-Pong/blob/main/img/tela.png)
